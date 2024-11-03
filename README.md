@@ -1,4 +1,5 @@
 Overview: This is a dynamic web application built using the React framework, designed to provide an engaging user experience. This project features a sleek and intuitive interface that highlights the core components of the NEXUS platform.
+Deployed link: https://nexus-website-one.vercel.app/
 
 Key Features:
 
